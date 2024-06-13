@@ -6,8 +6,14 @@
 Welcome to sphinxcontrib-del-marker's documentation!
 ====================================================
 
-- .. del:: AAAAAAA
+最近动态
+-------------
 
-- BBBBBBBBBBBBBBB
+- .. del:: lorem loren lorem
 
-- CCCCCCCCCCCCCCCCCCCCC
+- 策划 `Flasky-Cli`_ 添加实用性强的新功能，比如快速注册一个蓝图
+
+- .. del:: 为 `BiliFM`_ 添加下载音质的 CLI 选项
+
+.. _Flasky-Cli: https://github.com/jennier0107/flasky-cli
+.. _BiliFM: https://github.com/jingfelix/bilifm
