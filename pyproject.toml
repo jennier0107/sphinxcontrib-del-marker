@@ -1,6 +1,6 @@
 [project]
 name = "sphinxcontrib-del-marker"
-version = "0.1.1"
+version = "0.1.2"
 description = "A sphinx plugin that enables embedding of HTML5 del"
 authors = [
     {name = "jennier0107", email = "mt3085570450@outlook.com"},
