@@ -1,12 +1,9 @@
 name: publish to pypi
 
 "on":
-  release:
-    types:
-      - published
   push:
-    tags:
-      - 'v*'
+    branches:
+      - main
 
 
 jobs:
